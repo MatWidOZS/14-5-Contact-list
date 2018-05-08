@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+* {box-sizing: border-box;}
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	background-color: #ECECEC;
+}
+
+.contactForm {
+	margin: 50px;
+	text-align: center;
+}
+
+.contactForm input {
+	margin-right: 5px;
+	padding: 10px;
+	color: #fff;
+	border: 1px solid #162E3F;
+}
+
+.contactForm button {
+	margin-left: 20px;
+	height: 35px;
+	width: 120px;
+	border: 2px solid #162E3F;
+	color: #000;
+	font-weight: bold;
+	background-color: #fff; 
+	cursor: pointer;
+	font-size: 16px;
+}
+
+.contactForm button:hover {
+	background-color: #162E3F;
+	color: #fff;
+}
+
+.contactItem {
+	margin-bottom: 35px;
+	border: 3px solid #3C5669;
+	border-radius: 5px;
+	max-width: 450px;
+	padding: 20px;
+	background-color: #162E3F;
+	letter-spacing: 0.6px;
+	color: #fff;
+	box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+}
+
+.contactItem a {
+	color: #fff;
+}
+
+.contactImage {
+	width: 100px;
+	float: left;
+	margin-right: 10px;
+	padding: 10px;
+	background-color: #929191;
+	border-radius: 50%
+}
