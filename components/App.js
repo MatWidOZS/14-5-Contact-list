@@ -1,21 +1,21 @@
 var contacts = [
 	{
 		id: 1,
-		firstName: 'Jan',
-		lastName: 'Nowak',
-		email: 'jan.nowak@example.com'
+		firstName: 'Jacob',
+		lastName: 'Ward',
+		email: 'jacob.ward@example.com'
 	},
 	{
 		id: 2,
-		firstName: 'Adam',
-		lastName: 'Kowalski',
-		email: 'adam.kowalski@example.com'
+		firstName: 'Joseph',
+		lastName: 'Phillips',
+		email: 'joseph.phillips@example.com'
 	},
 	{
 		id: 3,
-		firstName: 'Zbigniew',
-		lastName: 'Koziol',
-		email: 'zbigbiew.koziol@example.com'
+		firstName: 'Owen',
+		lastName: 'Banks',
+		email: 'owen.banks@example.com'
 	}
 ];
 
